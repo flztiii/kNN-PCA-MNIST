@@ -1,0 +1,1 @@
+kNN+PCA+MNIST
